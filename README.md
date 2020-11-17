@@ -18,9 +18,11 @@ This player data contains:
   - Notes
   - Bye Weeks
 
-Users can make request to get all players
-Users can make request to change player from available to taken
-Users can make request to reset the database with the latest depth slots
+Users can make request to get all players.
+
+Users can make request to change player from available to taken.
+
+Users can make request to reset the database with the latest depth slots.
 
 ## Install
 
