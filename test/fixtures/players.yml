@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  position: MyString
+  depth: MyString
+  doublep: false
+  team: MyString
+  injured: 
+  formation: MyString
+
+two:
+  name: MyString
+  position: MyString
+  depth: MyString
+  doublep: false
+  team: MyString
+  injured: 
+  formation: MyString
