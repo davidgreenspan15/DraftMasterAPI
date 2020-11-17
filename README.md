@@ -27,7 +27,7 @@ Users can make request to reste the database with the latest depth slots
 ### Clone the repository
 
 ```shell
-git clone git@github.com:juliendargelos/project.git
+git clone git@github.com:davidgreenspan15/DraftMasterAPI.git
 cd project
 ```
 
