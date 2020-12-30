@@ -1,7 +1,6 @@
 class PlayersController < ApplicationController
 require 'nokogiri'
 require 'open-uri'
-require 'byebug'
 require 'csv'
 
 # GET /players
