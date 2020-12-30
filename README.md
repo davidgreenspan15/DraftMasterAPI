@@ -1,6 +1,6 @@
 # Draft Master API
 
-Draft Master API is a program built to collect player data from espn and a local csv with data from fantasy pros
+Draft Master API is a program built to collect player data from Espn and Fantasy Pros
 
 This player data contains:
 
@@ -18,16 +18,18 @@ This player data contains:
   - Notes
   - Bye Weeks
 
-Users can make request to get all players
-Users can make request to change player from available to taken
-Users can make request to reste the database with the latest depth slots
+Users can make request to get all players.
+
+Users can make request to change player from available to taken.
+
+Users can make request to reset the database with the latest depth slots.
 
 ## Install
 
 ### Clone the repository
 
 ```shell
-git clone git@github.com:juliendargelos/project.git
+git clone git@github.com:davidgreenspan15/DraftMasterAPI.git
 cd project
 ```
 
@@ -37,7 +39,7 @@ cd project
 ruby -v
 ```
 
-The ouput should start with something like `ruby 2.7.2`
+The output should start with something like `ruby 2.7.2`
 
 If not, install the right ruby version using [rbenv](https://github.com/rbenv/rbenv) (it could take a while):
 
